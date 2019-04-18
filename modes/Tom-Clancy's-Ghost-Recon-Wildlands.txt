@@ -1,4 +1,4 @@
-#Tom Clancy's Ghost Recon: Wildlands 幽灵行动 , 1,0
+# Tom Clancy's Ghost Recon: Wildlands 幽灵行动 , 1,0
 0.0.0.0/4
 18.184.0.0/16
 18.194.0.0/16

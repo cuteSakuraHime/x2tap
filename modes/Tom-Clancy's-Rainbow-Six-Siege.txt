@@ -1,4 +1,4 @@
-#Tom-Clancy's-Rainbow-Six-Siege,1,0
+# Tom Clancy's Rainbow Six Siege,1,0
 1.0.0.0/15
 1.2.0.0/16
 1.4.0.0/14
